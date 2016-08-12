@@ -21,6 +21,3 @@ Allow rendering of forums on OptimizePress blog
 
 ####1.0
 * Initial release
-
-###1.0.1
-* Added support for editing replies
